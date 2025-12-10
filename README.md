@@ -2,11 +2,6 @@
 
 用 13 KiB 代码创造无限可能，挑战创意与技术的极限
 
-![https://img.shields.io/github/stars/lm-xiao-fen/13kib-code?style=social](https://github.com/lm-xiao-fen/13kib-code)
-![https://img.shields.io/badge/PRs-welcome-brightgreen.svg](https://github.com/lm-xiao-fen/13kib-code/pulls)    
-![https://img.shields.io/badge/License-MIT-yellow.svg](https://opensource.org/licenses/MIT)
-![https://img.shields.io/badge/chat-discord-7289da.svg](https://discord.gg/your-invite-code)  
-
 ## 关于这个项目
 
 欢迎来到 13 KiB Code Challenge —— 一个面向所有开发者的创意编程挑战赛！
@@ -93,19 +88,19 @@
 
 实用性 20% 实际应用价值、功能完整性
 
-🎖️ 荣誉体系
+## 有什么荣誉
 
-月度奖项
+### 有月度奖项
 
-• 🏅 最佳作品奖：每月综合评分最高
+- 最佳作品奖：每月综合评分最高
 
-• 🎨 最佳创意奖：创意性维度评分最高
+- 最佳创意奖：创意性维度评分最高
 
-• ⚡ 最佳技术奖：技术实现维度评分最高
+- 最佳技术奖：技术实现维度评分最高
 
-• 💎 社区选择奖：社区投票票数最高
+- 社区选择奖：社区投票票数最高
 
-长期荣誉
+### 有长期荣誉
 
 • 名人堂：在 leaderboard.md 永久展示
 
@@ -123,7 +118,7 @@
 
 不知道从何开始？这里有些思路：
 
-🎮 游戏类
+### 游戏类
 
 • 平台跳跃游戏
 
@@ -135,7 +130,7 @@
 
 • 策略游戏
 
-🛠️ 工具类
+### 工具类
 
 • Markdown 预览器
 
@@ -147,7 +142,7 @@
 
 • API 测试工具
 
-🎨 创意类
+### 创意类
 
 • 交互式艺术生成
 
@@ -191,17 +186,11 @@
 
 • GitHub Discussions：用于技术讨论、问答
 
-• Discord 服务器：实时交流、组队合作
-
-• Twitter/X：关注更新 #13kibcode
-
-• 邮件列表：接收月度挑战通知
-
-加入我们的 Discord：https://discord.gg/your-invite-code  
+• Discord 服务器：实时交流、组队合作加入我们的 Discord：https://discord.gg/your-invite-code    
 
 ## 所采用的许可证
 
-本项目采用 LICENSE。提交的作品版权归原作者所有，提交即表示同意在本项目中展示。
+本项目采用 MIT LICENSE。提交的作品版权归原作者所有，提交即表示同意在本项目中展示。
 
 ## 在此致谢
 
@@ -223,10 +212,10 @@
   <img src="https://img.shields.io/github/last-commit/lm-xiao-fen/13kib-code" alt="最后提交">              
 </p>
 
-star ⭐ 这个仓库，支持项目发展！
+star 这个仓库，支持项目发展！
 
 <p align="center">      
-  用 13 KiB 代码，创造无限可能 ✨
+  用 13 KiB 代码，创造无限可能 
 </p>
 
 #### 更新日志
