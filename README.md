@@ -2,10 +2,10 @@
 
 用 13 KiB 代码创造无限可能，挑战创意与技术的极限
 
-https://img.shields.io/github/stars/lm-xiao-fen/13kib-code?style=social](https://github.com/lm-xiao-fen/13kib-code)
-https://img.shields.io/badge/PRs-welcome-brightgreen.svg](https://github.com/lm-xiao-fen/13kib-code/pulls)
-https://img.shields.io/badge/License-MIT-yellow.svg](https://opensource.org/licenses/MIT)
-https://img.shields.io/badge/chat-discord-7289da.svg](https://discord.gg/your-invite-code)
+![https://img.shields.io/github/stars/lm-xiao-fen/13kib-code?style=social](https://github.com/lm-xiao-fen/13kib-code)
+![https://img.shields.io/badge/PRs-welcome-brightgreen.svg](https://github.com/lm-xiao-fen/13kib-code/pulls)    
+![https://img.shields.io/badge/License-MIT-yellow.svg](https://opensource.org/licenses/MIT)
+![https://img.shields.io/badge/chat-discord-7289da.svg](https://discord.gg/your-invite-code)  
 
 ## 关于这个项目
 
@@ -60,7 +60,7 @@ https://img.shields.io/badge/chat-discord-7289da.svg](https://discord.gg/your-in
 
 ### 1. 提交你的作品
 
-- 1. Fork 本仓库，或直接[点击此处](https://github.com/lm-xiao-fen/13kib-code/edit/fork)                                                                
+- 1. Fork 本仓库，或直接[点击此处](https://github.com/lm-xiao-fen/13kib-code/fork)                                                                              
 - 2. 在 submissions/ 下创建你的作品
 - 3. 添加你的代码和 README
 - 4. 确保总大小 ≤ 13 KiB (13,312 字节)
@@ -69,7 +69,7 @@ https://img.shields.io/badge/chat-discord-7289da.svg](https://discord.gg/your-in
 
 ### 2. 参与月度挑战
 
-每月的第一个周一，我们会发布新的挑战主题。关注中的[公告]https://github.com/yourusername/13kide/uesb-coiss。
+每月的第一个周一，我们会发布新的挑战主题。关注中的[公告]https://github.com/lm-xiao-fen/13kide/uesb-coiss。
 
 本月主题：🎮 用 13 KiB 创建一个可玩的游戏
 
@@ -197,7 +197,7 @@ https://img.shields.io/badge/chat-discord-7289da.svg](https://discord.gg/your-in
 
 • 邮件列表：接收月度挑战通知
 
-加入我们的 Discord：https://discord.gg/your-invite-code
+加入我们的 Discord：https://discord.gg/your-invite-code  
 
 ## 所采用的许可证
 
@@ -218,9 +218,9 @@ https://img.shields.io/badge/chat-discord-7289da.svg](https://discord.gg/your-in
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/lm-xiao-fen/13kib-code" alt="仓库大小">                                    
-  <img src="https://img.shields.io/github/contributors/lm-xiao-fen/13kib-code" alt="贡献者">  
+  <img src="https://img.shields.io/github/contributors/lm-xiao-fen/13kib-code" alt="贡献者">                
   <img src="https://img.shields.io/github/issues/lm-xiao-fen/13kib-code" alt="问题">  
-  <img src="https://img.shields.io/github/last-commit/lm-xiao-fen/13kib-code" alt="最后提交">            
+  <img src="https://img.shields.io/github/last-commit/lm-xiao-fen/13kib-code" alt="最后提交">              
 </p>
 
 star ⭐ 这个仓库，支持项目发展！
