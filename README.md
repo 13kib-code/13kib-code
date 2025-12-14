@@ -1,4 +1,4 @@
-# 13 kib code                  
+# 13 kib code                    
 
 用 13 KiB 代码创造无限可能，挑战创意与技术的极限
 
@@ -201,17 +201,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/lm-xiao-fen/13kib-code" alt="仓库大小">                                    
-  <img src="https://img.shields.io/github/contributors/lm-xiao-fen/13kib-code" alt="贡献者">                
+  <img src="https://img.shields.io/github/contributors/lm-xiao-fen/13kib-code" alt="贡献者">                  
   <img src="https://img.shields.io/github/issues/lm-xiao-fen/13kib-code" alt="问题">  
   <img src="https://img.shields.io/github/last-commit/lm-xiao-fen/13kib-code" alt="最后提交">              
 </p>
 
 star 这个仓库，支持项目发展！
-
+```
 <p align="center">      
   用 13 KiB 代码，创造无限可能 
 </p>
-
+```
 #### 更新日志
 
 暂无
