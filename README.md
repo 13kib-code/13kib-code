@@ -4,7 +4,7 @@
 
 ## 关于这个项目
 
-欢迎来到 13 KiB Code Challenge —— 一个面向所有开发者的创意编程挑战赛！
+欢迎来到 13 KiB Code —— 一个面向所有开发者的创意编程挑战赛！
 
 核心规则很简单：
 - 用不超过 13 KiB（13,312 字节）的代码
@@ -54,7 +54,7 @@
 
 ## 跃跃欲试？快速开始！
 
-### 1. 提交你的作品
+### 提交你的作品
 
 - Fork 本仓库，或直接[点击此处](https://github.com/lm-xiao-fen/13kib-code/fork)                                                                              
 - 在 submissions/ 下创建你的作品
@@ -63,7 +63,17 @@
 - 提交 Pull Request          
 
 
-### 2. 参与月度挑战
+### 提交作品的格式
+
+- 你的作品要包含在一个名为 **[GitHub用户名]作品名称** 的文件夹内
+- 文件夹内应包含作品本体、README.md、其他对你作品来说必不可少的文件
+- 如果你的项目在GitHub上有一个单独的代码仓库，你需要在仓库的README.md文件的结尾加上
+
+```text
+[该项目参加13 kib code](https://github.com/13kib-code/13kib-code/)
+```
+
+### 参与月度挑战
 
 我们会在不定时的时间发布新的挑战主题。关注中的[公告](https://github.com/lm-xiao-fen/13kib-code/issues/1)
 
@@ -77,11 +87,11 @@
 
 作品将从四个维度评价：
 
-| 维度 | 权重 | 说明|
-|------|------|------ |                    
-| 创意性 | 30% | 想法是否新颖、有趣、出乎意料|
-| 技术实现| 30% | 代码质量、优化技巧、技术难度|
-| 用户体验| 20% | 易用性、界面美观、交互流畅 |
+| 维度 | 权重 | 说明 |
+| ------ | ------ |------ |                    
+| 创意性 | 30% | 想法是否新颖、有趣、出乎意料 |
+| 技术实现 | 30% | 代码质量、优化技巧、技术难度 |
+| 用户体验 | 20% | 易用性、界面美观、交互流畅 |
 | 实用性 | 20% | 实际应用价值、功能完整性 |
 
 ## 有什么荣誉
@@ -177,10 +187,11 @@
 - CODE_OF_CONDUCT.md  
 
 ## 社区交流
-
 - GitHub Discussions：用于技术讨论、问答
 
-- Discord 服务器：实时交流、组队合作加入我们的 Discord：https://discord.gg/your-invite-code    
+- QQ 频道：发贴分享开发中的喜怒哀乐 [QQ频道](https://pd.qq.com/s/7ndot2ijv)
+
+- Discord 服务器：实时交流、组队合作加入我们的 Discord暂无
 
 ## 所采用的许可证
 
@@ -218,4 +229,4 @@ star 这个仓库，支持项目发展！
 
 灵感来源于历史上的 1k/4k/10k JavaScript 比赛，但我们将限制扩大到 13 KiB 以适应更多创意，并欢迎所有编程语言。
 
-准备好了吗？ 查看 https://github.com/lm-xiao-fen/13kib-code/issues/1 或 https://github.com/lm-xiao-fen/13kib-code/compare！                                                       
+准备好了吗？ 查看 https://github.com/lm-xiao-fen/13kib-code/issues/1
