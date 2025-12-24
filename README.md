@@ -38,7 +38,7 @@
 ├── CODE_OF_CONDUCT.md           # 行为准则      
 ├── submissions/                 # 提交的作品
 │   ├── yy-mm-name/ # 月度主题挑战目录
-│   │   ├── [GitHubusername]projectname/        # 参与者1的作品          
+│   │   ├── [GitHubusername]projectname/        # 参与者1的作品            
 │   │   │                          ├── src/              
 │   │   │                          ├── README.md                                  
 │   │   │                          └── project                                 
@@ -66,7 +66,7 @@
 - 文件夹内应包含作品本体、README.md、其他对你作品来说必不可少的文件
 - 如果你的项目在GitHub上有一个单独的代码仓库，你需要在仓库的README.md文件的结尾加上
 
-```text
+```
 [该项目参加13 kib code](https://github.com/13kib-code/13kib-code/)
 ```
 
@@ -83,14 +83,14 @@
 ## 我们采用评审标准
 
 作品将从四个维度评价：
-```
+
 | 维度 | 权重 | 说明 |
-| ------ | ------ | ------ |                      
+|------|------|------|
 | 创意性 | 30% | 想法是否新颖、有趣、出乎意料 |
 | 技术实现 | 30% | 代码质量、优化技巧、技术难度 |
 | 用户体验 | 20% | 易用性、界面美观、交互流畅 |
 | 实用性 | 20% | 实际应用价值、功能完整性 |
-```
+
 ## 有什么荣誉
 
 ### 有月度奖项
@@ -115,7 +115,7 @@
 
 ## 当前荣誉榜
 
-查看完整荣誉榜：leaderboard.md
+查看完整荣誉榜：[leaderboard.md](/leaderboard.md)
 
 ## 没有灵感，看这里
 
@@ -179,9 +179,9 @@
 - 宣传推广：分享给更多开发者
 
 请先阅读：
-- CONTRIBUTING.md  
+- [CONTRIBUTING.md](/CONTRIBUTING.md)                                
 
-- CODE_OF_CONDUCT.md  
+- [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md)      
 
 ## 社区交流
 - GitHub Discussions：用于技术讨论、问答
@@ -226,4 +226,4 @@ star 这个仓库，支持项目发展！
 
 灵感来源于历史上的 1k/4k/10k JavaScript 比赛，但我们将限制扩大到 13 KiB 以适应更多创意，并欢迎所有编程语言。
 
-准备好了吗？ 查看 https://github.com/lm-xiao-fen/13kib-code/issues/1
+准备好了吗？ 查看 https://github.com/lm-xiao-fen/13kib-code/issues/1  
