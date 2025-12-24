@@ -35,21 +35,18 @@
 13kib-code/
 ├── README.md                    # 本说明文件
 ├── CONTRIBUTING.md              # 贡献指南
-├── CODE_OF_CONDUCT.md           # 行为准则
+├── CODE_OF_CONDUCT.md           # 行为准则      
 ├── submissions/                 # 提交的作品
-│   ├── 2024-05-game-challenge/ # 月度主题挑战目录
-│   │   ├── player1-game/        # 参与者1的作品
-│   │   │   ├── src/      
-│   │   │   ├── README.md                        
-│   │   │   └── demo                  
-│   │   └── player2-tool/        # 参与者2的作品
-│   └── archive/                 # 历史归档
-├── examples/                    # 示例项目
-│   ├── 13kib-demo-game/         # 示例游戏
-│   └── 13kib-utility/           # 示例工具
-├── leaderboard.md               # 荣誉榜  
-└── resources/                   # 资源与工具
-     └──── size-checker.js          # 文件大小检查工具        
+│   ├── yy-mm-name/ # 月度主题挑战目录
+│   │   ├── [GitHubusername]projectname/        # 参与者1的作品          
+│   │   │                          ├── src/              
+│   │   │                          ├── README.md                                  
+│   │   │                          └── project                                 
+│   │   └── player2-tool/                      # 参与者2的作品
+│   └── archive/                               # 历史归档
+├── leaderboard.md                              # 荣誉榜            
+└── resources/                                  # 资源与工具
+     └──── size-checker.js                    # 文件大小检查工具        
 ```
 
 ## 跃跃欲试？快速开始！
@@ -88,7 +85,7 @@
 作品将从四个维度评价：
 
 | 维度 | 权重 | 说明 |
-| ------ | ------ |------ |                    
+| ------ | ------ | ------ |                      
 | 创意性 | 30% | 想法是否新颖、有趣、出乎意料 |
 | 技术实现 | 30% | 代码质量、优化技巧、技术难度 |
 | 用户体验 | 20% | 易用性、界面美观、交互流畅 |
