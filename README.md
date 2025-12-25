@@ -1,4 +1,8 @@
-# 13 kib code                    
+# 13 KiB Code
+
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/13kib-code/13kib-code/check-size.yml)
+![GitHub License](https://img.shields.io/github/license/13kib-code/13kib-code)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 用 13 KiB 代码创造无限可能，挑战创意与技术的极限
 
@@ -13,7 +17,7 @@
 
 - 比拼创意、技术、美感与实用性
 
-- 能在主流的Linux、Android、Windows和Mac OS上运行    
+- 尽可能的跨平台，如果是针对特点平台，请在README.md中标出
 
 为什么是 13 KiB？ 这个限制足以实现有趣的功能，又足够小以激发创意优化。在约束中创造自由，这是我们的哲学。
 
@@ -37,7 +41,7 @@
 │   └── workflows/
 │       └── check-size.yml     # CI/CD 检查工作流
 ├── submissions/    
-│   └── [2024-05-01][GitHubusername]projectname/                                          
+│   └── [YYYY-MM-DD][GitHubusername]projectname/                                          
 │       ├── src/              # 源代码
 │       ├── assets/           # 静态资源
 │       ├── README.md         # 项目说明
@@ -53,7 +57,7 @@
 
 ### 提交你的作品
 
-- Fork 本仓库，或直接[点击此处](https://github.com/lm-xiao-fen/13kib-code/fork)                                                                              
+- Fork 本仓库，或直接[点击此处](https://github.com/13kib-code/13kib-code/fork)                                                                              
 - 在 submissions/ 下创建你的作品
 - 添加你的代码和 README
 - 确保总大小 ≤ 13 KiB (13,312 字节)
@@ -62,7 +66,7 @@
 
 ### 提交作品的格式
 
-- 你的作品要包含在一个名为 **[日期年月日][GitHub用户名]作品名称** 的文件夹内
+- 你的作品要包含在一个名为 **[YYYY-MM-DD][GitHubusername]projectname** 的文件夹内
 - 文件夹内应包含作品本体、README.md、其他对你作品来说必不可少的文件
 - 如果你的项目在GitHub上有一个单独的代码仓库，你需要在仓库的README.md文件的结尾加上
 
@@ -72,7 +76,7 @@
 
 ### 参与月度挑战
 
-我们会在不定时的时间发布新的挑战主题。关注中的[公告](https://github.com/lm-xiao-fen/13kib-code/issues/1)
+我们会在不定时的时间发布新的挑战主题。关注中的[公告](https://github.com/13kib-code/13kib-code/issues/1)
 
 ## 挑战流程
 
@@ -208,10 +212,10 @@
 📈 项目数据
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/lm-xiao-fen/13kib-code" alt="仓库大小">                                    
-  <img src="https://img.shields.io/github/contributors/lm-xiao-fen/13kib-code" alt="贡献者">                  
-  <img src="https://img.shields.io/github/issues/lm-xiao-fen/13kib-code" alt="问题">  
-  <img src="https://img.shields.io/github/last-commit/lm-xiao-fen/13kib-code" alt="最后提交">              
+  <img src="https://img.shields.io/github/repo-size/13kib-code/13kib-code" alt="仓库大小">                                    
+  <img src="https://img.shields.io/github/contributors/13kib-code/13kib-code" alt="贡献者">                  
+  <img src="https://img.shields.io/github/issues/13kib-code/13kib-code" alt="问题">  
+  <img src="https://img.shields.io/github/last-commit/13kib-code/13kib-code" alt="最后提交">              
 </p>
 
 star 这个仓库，支持项目发展！
@@ -226,4 +230,4 @@ star 这个仓库，支持项目发展！
 
 灵感来源于历史上的 1k/4k/10k JavaScript 比赛，但我们将限制扩大到 13 KiB 以适应更多创意，并欢迎所有编程语言。
 
-准备好了吗？ 查看 https://github.com/lm-xiao-fen/13kib-code/issues/1  
+准备好了吗？ 查看 [ 公告](https://github.com/13kib-code/13kib-code/issues/1) 
