@@ -230,4 +230,4 @@ star 这个仓库，支持项目发展！
 
 灵感来源于历史上的 1k/4k/10k JavaScript 比赛，但我们将限制扩大到 13 KiB 以适应更多创意，并欢迎所有编程语言。
 
-准备好了吗？ 查看 [ 公告](https://github.com/13kib-code/13kib-code/issues/1) 
+准备好了吗？[查看第一个挑战](https://github.com/13kib-code/13kib-code/issues/1) 或 [立即提交你的作品](https://github.com/13kib-code/13kib-code/compare)
