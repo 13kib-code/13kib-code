@@ -186,9 +186,6 @@ submissions/
 ```
 类型(范围): 描述
 
-[可选正文]
-
-[可选脚注]
 ```
 
 类型包括：
@@ -386,7 +383,7 @@ node scripts/validate-structure.js
 
 ```bash
 # 获取上游更新
-git fetch upstream
+git fetch upstream  
 
 # 合并到你的分支
 git merge upstream/main
@@ -454,9 +451,9 @@ graph TD
 
 如果你遇到任何问题：
 - 在 Issues 中搜索
-3. 创建新的 Issue
-4. 在 Discussions 中提问
-5. 在 QQ 频道中询问
+- 创建新的 Issue
+- 在 Discussions 中提问
+- 在 QQ 频道中询问
 
 ---
 
