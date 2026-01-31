@@ -3,37 +3,37 @@
 
 欢迎来到 13 KiB Code 项目！我们很高兴你对参与这个创意编程挑战感兴趣。本指南将帮助你了解如何为项目做出贡献。
 
-## 📋 贡献类型
+## 贡献类型
 
 我们欢迎各种形式的贡献：
 
-### 1. 🎨 提交作品
+### 1. 提交作品
 - 参加月度挑战
 - 自由创作任何 13 KiB 以内的项目
 - 展示你的创意和技术
 
-### 2. 🔍 评审与反馈
+### 2. 评审与反馈
 - 评审他人的作品
 - 提供建设性的技术反馈
 - 参与社区投票
 
-### 3. 📚 文档改进
+### 3. 文档改进
 - 修复文档错误
 - 添加更多示例
 - 翻译文档
 - 编写教程
 
-### 4. 🔧 工具与自动化
+### 4. 工具与自动化
 - 改进 CI/CD 流程
 - 开发辅助工具
 - 创建测试框架
 
-### 5. 🌟 社区支持
+### 5. 社区支持
 - 回答问题
 - 帮助新参与者
 - 推广项目
 
-## 🚀 开始贡献
+## 开始贡献
 
 ### 第一步：设置开发环境
 
@@ -132,12 +132,12 @@
    git push origin feature/你的功能描述
    ```
 
-## 📁 提交规范
+## 提交规范
 
 ### 作品目录结构
 ```
 submissions/
-└── 2024-05-10-username-project/
+└── YYYY-MM-DD-username-project/
     ├── src/              # 源代码
     ├── assets/           # 资源文件（图片、音频等）
     ├── README.md         # 项目说明（必需）
@@ -167,8 +167,22 @@ submissions/
 描述你的优化技巧
 
 ## 文件结构
-```
-项目结构
+```  
+13kib-code/
+├── .github/
+│   └── workflows/
+│       └── check-size.yml     # CI/CD 检查工作流
+├── submissions/    
+│   └── [YYYY-MM-DD][GitHubusername]projectname/                                          
+│       ├── src/              # 源代码
+│       ├── assets/           # 静态资源
+│       ├── README.md         # 项目说明
+│       └── .13kibignore      # 可选：忽略文件列表
+├── scripts/
+│   ├── check-size.js         # 大小检查脚本
+│   └── validate-structure.js  # 结构验证脚本
+└── templates/
+    └── submission-template/   # 提交模板       
 ```
 
 ## 大小统计
@@ -177,34 +191,23 @@ submissions/
 
 ## 作者
 - 你的名字
-- 链接到你的 GitHub
-```
+- GitHub链接
 
 ### 提交消息格式
 我们使用约定式提交格式：
 
 ```
-类型(范围): 描述
-
+干了什么：具体干了什么
 ```
-
-类型包括：
-- `feat`: 新功能
-- `fix`: 修复 Bug
-- `docs`: 文档更新
-- `style`: 代码格式调整
-- `refactor`: 重构代码
-- `test`: 测试相关
-- `chore`: 构建过程或辅助工具的变动
 
 示例：
 ```
-feat(submission): 添加贪吃蛇游戏实现
-docs: 更新贡献指南的示例部分
-fix(check-size): 修复文件大小计算错误
+功能实现: 添加贪吃蛇游戏实现
+文档更新: 更新贡献指南的示例部分
+修复问题: 修复文件大小计算错误
 ```
 
-## 🔍 代码评审
+## 代码评审
 
 ### 评审流程
 1. **创建 Pull Request**
@@ -243,7 +246,7 @@ fix(check-size): 修复文件大小计算错误
    - 功能完整
    - 用户体验良好
 
-## 🧪 开发指南
+## 开发指南
 
 ### 运行测试
 ```bash
@@ -272,7 +275,7 @@ node scripts/validate-structure.js
 
 3. **提交 PR**
    - 确保所有测试通过
-   - 更新 CHANGELOG（如果适用）
+   - 更新 CHANGELOG
    - 请求代码评审
 
 ### 代码风格
@@ -281,12 +284,11 @@ node scripts/validate-structure.js
 - 保持代码简洁
 - 遵循项目现有的代码风格
 
-## 🆘 获取帮助
+## 获取帮助
 
 ### 有问题？
 1. **查看现有文档**
    - 阅读 README.md
-   - 查看 FAQ（如果存在）
 
 2. **搜索 Issues**
    - 在 Issues 中搜索类似问题
@@ -325,7 +327,7 @@ node scripts/validate-structure.js
    [如果有，请添加]
    ```
 
-## 🤝 行为准则
+## 行为准则
 
 ### 社区准则
 1. **尊重他人**
@@ -355,7 +357,7 @@ node scripts/validate-structure.js
 2. 临时禁言
 3. 永久封禁
 
-## 🎯 首次贡献者
+## 首次贡献者
 
 如果你是首次贡献者，我们推荐：
 
@@ -377,7 +379,7 @@ node scripts/validate-structure.js
 - 查看标记为 `help-wanted` 的 Issues
 - 在 Discussions 中询问
 
-## 🔄 保持同步
+## 保持同步
 
 定期从上游仓库拉取更新：
 
@@ -392,7 +394,7 @@ git merge upstream/main
 git push origin main
 ```
 
-## 📄 许可证
+## 许可证
 
 ### 你的权利
 - 你保留提交作品的版权
@@ -404,7 +406,7 @@ git push origin main
 - 提交即表示你同意此许可
 - 查看 LICENSE 了解详情
 
-## 💖 致谢
+## 致谢
 
 感谢你的贡献！每一份贡献，无论大小，都让这个项目变得更好。
 
@@ -415,7 +417,7 @@ git push origin main
 
 ---
 
-## 📈 贡献流程总结
+## 贡献流程总结
 
 ```mermaid
 graph TD
@@ -452,11 +454,10 @@ graph TD
 如果你遇到任何问题：
 - 在 Issues 中搜索
 - 创建新的 Issue
-- 在 Discussions 中提问
 - 在 QQ 频道中询问
 
 ---
 
-感谢你为 13 KiB Code 项目做出贡献！🎉
+感谢你为 13 KiB Code 项目做出贡献！
 
 **每一行代码，每一个想法，每一次分享，都在让这个社区变得更好。**
